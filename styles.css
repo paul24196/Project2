@@ -1,0 +1,117 @@
+.container{
+    padding-top: 30px;
+}
+
+.banner{
+    background-image: url(Background.png);
+    width: 50%;
+}
+
+.iso{
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 15%;
+}
+
+.title{
+    position: relative;
+    left: 150px;
+    width: 60%;
+}
+
+.title1{
+    filter: blur(20px);
+}
+
+
+.img{
+    height: 30%;
+    width: 100%;
+    padding-top: 40px;
+    animation: slideInRight;
+    animation-duration: 2s;
+}
+
+
+
+.img1{
+    display: none;
+}
+
+.div1{
+    height: 25%;
+    width: 8%;
+    position: absolute;
+    margin-left: 20px;
+    animation: zoomIn;
+    animation-duration: 2s;
+}
+
+.div11{
+    display: none;
+}
+
+.div{
+    height: 25%;
+    position: relative;
+    top: 50px;
+    left: 200px;
+    animation: zoomIn;
+    animation-duration: 2s;
+}
+
+.div0{
+    display: none;
+}
+
+.div2{
+    height: 12%;
+    width: 35%;
+    position: relative;
+    left: 210px;
+    animation: zoomIn;
+    animation-duration: 2s;
+}
+
+.div21{
+    display: none;
+}
+
+.div3{
+    height: 8%;
+    width: 10%;
+    position: absolute;
+    margin-top: 150px;
+    animation: zoomIn;
+    animation-duration: 2s;
+}
+
+.div31{
+    display: none;
+}
+
+.divider{
+    height: 25%;
+    position: relative;
+    left: 220px;
+    top: 50px;
+    animation: zoomIn;
+    animation-duration: 2s;
+}
+
+.divider1{
+    display: none;
+}
+
+.div4{
+    height: 25%;
+    position: relative;
+    top: 40px;
+    left: 240px;
+    animation: zoomIn;
+    animation-duration: 2s;
+}
+
+.div41{
+    display: none;
+}
